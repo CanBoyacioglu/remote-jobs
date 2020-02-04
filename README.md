@@ -19,22 +19,6 @@ Name | Website | Region
 [Aha!](/company-profiles/aha.md) | http://www.aha.io | Worldwide
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
-[Alight Solutions](/company-profiles/alight-solutions.md) | http://alight.com | Worldwide
-[Alley](/company-profiles/alley.md) | http://alley.co | USA, Canada, Western Europe
-[allyDVM](/company-profiles/allydvm.md) | http://www.allydvm.com/ | USA
-[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
-[Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
-[apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
-[appendTo](/company-profiles/appendto.md) ⚠️️ | http://appendto.com/ |
-[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
-[ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
-[Arkency](/company-profiles/arkency.md) | http://arkency.com/ | Worldwide
-[Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | US and Canada
-[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
-[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Audiense](/company-profiles/audiense.md) ⚠️️ | http://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
@@ -429,4 +413,4 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
-[Ekşi](/company-profiles/eksi.md) | http://eksisozluk.com/ | Turkey
+[Ekşi](/company-profiles/eksi.md) | http://eksisozluk.com/ | Turkey,Corlu
