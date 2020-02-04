@@ -13,18 +13,6 @@ each individual company profile for details._
 
 Name | Website | Region
 ------------ | ------- | -------
-[&yet](/company-profiles/and-yet.md) | https://andyet.com | Worldwide
-[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
-[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
-[1Password](/company-profiles/1password.md) | https://www.1password.com | Worldwide
-[45royale](/company-profiles/45royale.md) | http://45royale.com/ | Worldwide
-[abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
-[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
-[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
-[Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
-[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [AgFlow](/company-profiles/agflow.md) | http://www.agflow.com | Europe
@@ -272,24 +260,6 @@ Name | Website | Region
 [madewithlove](/company-profiles/madewithlove.md) | https://madewithlove.be | UTC-5 to UTC+3
 [Manifold](/company-profiles/manifold.md) | https://manifold.co | UTC-9 to UTC+1
 [Mapbox](/company-profiles/mapbox.md) | https://www.mapbox.com/ | Worldwide
-[Marketade](/company-profiles/marketade.md) ⚠️️ | http://www.marketade.com |
-[MarsBased](/company-profiles/marsbased.md) | https://marsbased.com/ | Worldwide
-[Mediacurrent](/company-profiles/mediacurrent.md) | https://www.mediacurrent.com/ | US Only
-[Mediavine]( /company-profiles/mediavine.md) | https://www.mediavine.com/ | US
-[Medium](/company-profiles/medium.md) | https://medium.com/ | US Only
-[Memberful](/company-profiles/memberful.md) ⚠️️ | https://memberful.com |
-[Memory](/company-profiles/memory.md) | https://memory.ai/ | Worldwide
-[MetaLab](/company-profiles/metalab.md) ⚠️️ | http://metalab.co |
-[MetaMask](/company-profiles/metamask.md) | https://metamask.io |
-[Mixcloud](/company-profiles/mixcloud.md) ⚠️️ | https://www.mixcloud.com/ |
-[Mixmax](/company-profiles/mixmax.md) | https://mixmax.com | Worldwide
-[Mobile Jazz](/company-profiles/mobile-jazz.md) | https://mobilejazz.com | Worldwide
-[Mokriya](/company-profiles/mokriya.md) ⚠️️ | http://mokriya.com |
-[Mozilla](/company-profiles/mozilla.md) ⚠️️ | https://www.mozilla.org/ |
-[mtc.](/company-profiles/mtc.md) | http://www.mtcmedia.co.uk | UK & Europe
-[Muck Rack](/company-profiles/muck-rack.md) | https://muckrack.com | Worldwide
-[Mycelium](/company-profiles/mycelium.md) ⚠️️ | https://mycelium.com |
-[MySQL](/company-profiles/mysql.md) ⚠️️ | https://www.mysql.com/ |
 [Netguru](/company-profiles/netguru.md) | https://www.netguru.com |
 [Netsparker](/company-profiles/netsparker.md) | https://www.netsparker.com/ | Worldwide
 [Nettl Edinburgh](/company-profiles/nettl-edinburgh.md) | http://www.webdesignedinburgh.com | UK & Europe
@@ -429,6 +399,7 @@ Name | Website | Region
 [Travis CI](/company-profiles/travis-ci.md) ⚠️️ | https://travis-ci.org/ |
 [Treehouse](/company-profiles/treehouse.md) | https://teamtreehouse.com/ | United States
 [Trello](/company-profiles/trello.md) | https://trello.com/ |
+[Trendyol](/company-profiles/trendyol.md) | https://trendyol.com/ |
 [TrussWorks](/company-profiles/trussworks.md) | https://truss.works | United States
 [Tuft & Needle](/company-profiles/tuft-and-needle.md) | https://www.tuftandneedle.com/ | United States
 [Twin Technologies](/company-profiles/twin-technologies.md) ⚠️️ | https://www.twintechs.com/ |
