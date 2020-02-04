@@ -458,3 +458,4 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[Ekşi](/company-profiles/eksi.md) | http://eksisozluk.com/ | Turkey
